@@ -103,3 +103,10 @@ function unwrap(uint256 _amount) external {
 2. **Unwrapping (WEMP to EMP)**:
    - The user sends `WEMP` tokens back to the contract.
    - The contract burns these `WEMP` tokens and returns the corresponding amount of `EMP` tokens to the user, effectively "unwrapping" the tokens.
+
+
+
+### Verified contract links on ETHERSCAN
+
+1. EmpressToken : https://holesky.etherscan.io/address/0x30F22Ac0698f882Fb6544B98B66E5e00eC7B6A67
+2. WrappedEmpress (Main contract) :https://holesky.etherscan.io/address/0xef744d1cfF05d93832a3CEbA2821d835018EDD41
